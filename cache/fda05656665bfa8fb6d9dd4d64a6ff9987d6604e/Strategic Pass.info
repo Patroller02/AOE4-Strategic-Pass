@@ -1,0 +1,129 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		512,
+		512,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1000,
+			x = -119.50000,
+			y = 227.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1001,
+			x = 93.50000,
+			y = 227.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1002,
+			x = -119.50000,
+			y = -226.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1003,
+			x = 93.50000,
+			y = -226.50000,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "Strategic Pass",
+	slots =  
+	{
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+	},
+	soundbiome = "temperate",
+	version = 3002,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+

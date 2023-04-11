@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Strategic Pass/-->
+	<DataObject Name="Strategic Pass" Type="Mod" Id="15481058064632442920" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">4652117650091453337</DataValue>
+			<!--Strategic Pass/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="4652117650091453337" OwnerId="15481058064632442920">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="521209733"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="2080581516"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2086430012"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1300901186"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="2"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">5056926861635079070</DataValue>
+			<!--Strategic Pass/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="5056926861635079070" OwnerId="15481058064632442920">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="521209733"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="2080581516"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2086430012"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1300901186"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+
