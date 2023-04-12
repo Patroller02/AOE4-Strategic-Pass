@@ -4,9 +4,9 @@
 	<CustomFields />
 	<Locales>
 		<Locale>
-			<DisplayName>Français</DisplayName>
+			<DisplayName>English</DisplayName>
 			<EngineName i:nil="true" />
-			<Name>fr</Name>
+			<Name>en</Name>
 		</Locale>
 	</Locales>
 	<Pipelines />
