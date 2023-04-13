@@ -4,6 +4,7 @@
 #
 ## Updates list :
 ### I will upload some updates for the map until I feel it is polished and done.
+* v.1.2 - Added 8 fishes nodes to each players lakes + Fix water flows
 * v.1.1 - Desc Localization Update
 * v.1.0 - Release
 
